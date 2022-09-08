@@ -26,3 +26,4 @@ Have no experience
 + University: Vitebsk State University named after P.M. Masherov (year of admission: 2021)
 ### Languages:
 + English - A2
++ Russian - native
