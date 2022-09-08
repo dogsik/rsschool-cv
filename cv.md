@@ -27,3 +27,4 @@ Have no experience
 ### Languages:
 + English - A2
 + Russian - native
++ Belarussian - native
